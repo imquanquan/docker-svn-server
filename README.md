@@ -1,2 +1,2 @@
 # docker-svn-server
-svn-server Dockerfile
+This repository contains Dockerfile for building a svn-server
